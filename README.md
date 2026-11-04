@@ -1,69 +1,41 @@
-# Enterprise Ransomware Incident Response & Cyber Risk Analytics Case Study
+# Enterprise Ransomware Risk Analysis Case Study
 
-## Overview
+## Project Overview
+This case study examines ransomware threats affecting organisations, focusing on cybersecurity vulnerabilities, operational disruption, financial consequences, and enterprise risk exposure.
 
-This project is a simulated enterprise ransomware case study focused on cybersecurity incident response, SOC workflows, cyber risk analysis, and business impact assessment.
+## Objectives
+- Understand ransomware-related threats and attack scenarios.
+- Identify potential security vulnerabilities and control gaps.
+- Evaluate the operational and business impact of ransomware.
+- Examine risk mitigation strategies.
+- Support informed cybersecurity risk management decisions.
 
-The objective of this project was to analyze how a ransomware attack could affect enterprise operations, security posture, and organizational resilience from both cybersecurity and business risk perspectives.
+## Risk Assessment Areas
+- Threat identification
+- Vulnerability assessment
+- Business impact analysis
+- Operational risk
+- Security control evaluation
+- Risk mitigation planning
 
----
+## Recommended Mitigation Strategies
+- Multi-Factor Authentication (MFA)
+- Network segmentation
+- Employee cybersecurity awareness training
+- Regular data backups
+- Security monitoring and incident response planning
 
-# Key Focus Areas
+## Business Relevance
+Ransomware can affect business continuity, financial performance, customer trust, and sensitive organisational information.
 
-- SOC Operations & Incident Response
+A structured risk assessment helps organisations prioritise security controls and strengthen operational resilience.
+
+## Key Takeaway
+This case study demonstrates how cybersecurity risk analysis can connect technical threats with business impact and management decisions.
+
+## Tools & Concepts
 - Cybersecurity Risk Assessment
+- Enterprise Risk Management
 - Business Impact Analysis
-- Threat Detection Concepts
-- Ransomware Attack Lifecycle
-- Cyber Kill Chain Methodology
-- MITRE ATT&CK Framework
-- Enterprise Security Governance
-
----
-
-# Included in This Project
-
-- Enterprise ransomware case study report
-- Cyber Kill Chain infographic
-- Cybersecurity risk analysis
-- Business impact assessment
-- MITRE ATT&CK mapping
-- Risk mitigation recommendations
-
----
-
----
-
-# Cyber Kill Chain
-
-![Cyber Kill Chain](cyber_kill_chain.png)  
-
----
-# Disclaimer
-
-This is a simulated cybersecurity case study created for educational and portfolio purposes. The organization, attack scenario, and operational details used in this project are hypothetical and designed to demonstrate cybersecurity analysis, risk assessment, and incident response concepts.
-
----
-
-# Skills Demonstrated
-
-- Cybersecurity Risk Assessment
-- Incident Response Analysis
-- SOC Workflow Understanding
-- Business Risk Evaluation
-- Threat Lifecycle Analysis
-- Cyber Kill Chain Analysis
-- MITRE ATT&CK Mapping
-- Enterprise Security Strategy
-
----
-
-# Career Alignment
-
-This project aligns with roles such as:
-- SOC Analyst
-- Cybersecurity Risk Analyst
-- Security Operations Analyst
-- GRC Analyst
-- Cyber Risk Consultant
-- Business Cybersecurity Analyst
+- Security Controls
+- Risk Mitigation
