@@ -8,6 +8,32 @@ The case study examines how a phishing-based attack can develop into an enterpri
 
 **Disclaimer:** This is a hypothetical case study created for educational, analytical and portfolio development purposes. NovaMart Global, its infrastructure, the attack scenario and operational details are fictional. This project does not represent a real security breach or a live SOC investigation.
 
+## Project Snapshot
+
+| Area | Summary |
+|---|---|
+| Case organisation | NovaMart Global (fictional retail and e-commerce organisation) |
+| Scenario date | 14 March 2026 |
+| Incident type | Simulated ransomware incident beginning with a phishing email |
+| Analysis focus | Threat progression, incident response, enterprise risk and business continuity |
+| Frameworks | MITRE ATT&CK and Cyber Kill Chain |
+| Intended audience | SOC, IT, cybersecurity risk, business continuity and management stakeholders |
+| Evidence status | Hypothetical scenario and conceptual analysis; no live telemetry or production deployment |
+
+This project is best understood as a **scenario-based cybersecurity risk and incident-response case study**, rather than a hands-on SOC deployment or a forensic investigation of a real breach.
+
+## Simulated Attack Progression
+
+The scenario describes a hypothetical sequence:
+
+1. Phishing email provides the initial access point.
+2. Suspicious PowerShell execution is considered during the investigation.
+3. Credential compromise and privilege escalation are examined.
+4. Lateral movement and suspicious outbound communication are considered.
+5. Ransomware-related file encryption creates potential business disruption.
+
+The sequence is an analytical scenario, not a claim that these events were observed in real systems.
+
 ## Project Objectives
 
 - Examine a simulated ransomware attack scenario and its progression.
@@ -28,7 +54,7 @@ The incident is classified as a **Priority 1 – Critical Security Incident** be
 ## Key Areas of Analysis
 
 ### 1. SIEM-Based Threat Detection
-Explores security monitoring concepts using Splunk Enterprise, Wazuh and FortiSIEM, including:
+Discusses how SIEM platforms such as Splunk Enterprise, Wazuh and FortiSIEM could support monitoring and investigation in the hypothetical scenario. The project does not claim that these platforms were deployed or used to collect live telemetry. Detection concepts include:
 - Suspicious PowerShell execution
 - Repeated authentication failures
 - Privilege escalation attempts
@@ -57,7 +83,7 @@ Evaluates potential exposure across:
 The report uses qualitative likelihood and business-impact categories to prioritise risks.
 
 ### 4. Cyber Kill Chain and MITRE ATT&CK
-Maps the hypothetical attack progression to Cyber Kill Chain stages and selected MITRE ATT&CK techniques, including:
+Relates the hypothetical attack progression to Cyber Kill Chain stages and selected MITRE ATT&CK technique references. These mappings are analytical associations for the scenario, not verified detections:
 - Phishing – T1566
 - PowerShell – T1059.001
 - Credential Dumping – T1003
@@ -97,9 +123,26 @@ The case study demonstrates how a technical cybersecurity incident can create wi
 
 It highlights the importance of connecting SOC operations with enterprise risk management, executive decision-making and organisational resilience.
 
+## Skills Demonstrated
+
+- Structuring a cybersecurity incident scenario and its attack progression.
+- Relating attacker behaviours to recognised cybersecurity frameworks.
+- Identifying potential operational, financial, reputational and compliance impacts.
+- Organising qualitative enterprise risk assessment and prioritisation.
+- Developing incident response, resilience and mitigation recommendations.
+- Translating technical cyber-risk concepts into business-facing language.
+
 ## Project Outcome
 
-The report brings together simulated threat investigation, incident response, qualitative risk assessment and business-focused mitigation recommendations. It demonstrates an approach to analysing cybersecurity threats from both technical and business perspectives.
+The report brings together scenario-based threat analysis, incident response concepts, qualitative risk assessment and business-focused mitigation recommendations. It demonstrates how cybersecurity events can be assessed in terms of organisational impact and communicated to business stakeholders.
+
+## Scope and Evidence Limitations
+
+- NovaMart Global and the incident are fictional and created for educational purposes.
+- The scenario does not represent a real breach, live SOC investigation or verified incident timeline.
+- References to Splunk Enterprise, Wazuh and FortiSIEM describe relevant SIEM concepts; they do not establish a live deployment or hands-on use within this case study.
+- No live security logs, forensic artefacts, validated alert counts or measured financial losses are claimed.
+- Attack-technique mappings and risk impacts are scenario-based analytical assessments and should be interpreted accordingly.
 
 ## Repository Contents
 
